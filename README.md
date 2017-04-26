@@ -26,3 +26,9 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+INSTALLATION
+  1. NPM INSTALL
+  2. NPM SERVER
+  3. SASS - src/css then run sass --watch style.scss:style.css --style compressed
